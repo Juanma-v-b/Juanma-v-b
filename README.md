@@ -3,7 +3,7 @@
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=TuUsuario&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
 
 ### 🚀 Sobre mí
-Desarrollador frontend con experiencia en tecnologías web modernas. Apasionado por la creación de interfaces dinámicas y soluciones eficientes. Me encanta aprender y contribuir a la comunidad open-source.
+Desarrollador frontend con experiencia en tecnologías web modernas. Apasionado por la creación de interfaces dinámicas y soluciones eficientes. Me encanta aprender continuamente y mejorar cada día.
 
 ### 🛠️ Tecnologías y herramientas
 
