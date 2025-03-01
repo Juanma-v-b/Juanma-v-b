@@ -1,9 +1,9 @@
-## 👋 ¡Hola! Soy Juanma
+# 👋 ¡Hola! Soy Juanma
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=TuUsuario&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
 
 ### 🚀 Sobre mí
-Desarrollador frontend con experiencia en tecnologías web modernas. Apasionado por la creación de interfaces dinámicas y soluciones eficientes. Me encanta aprender continuamente y mejorar cada día.
+Desarrollador Frontend apasionado por construir interfaces web modernas y eficientes. Me enfoco en crear soluciones que sean fáciles de usar, responsivas y visualmente atractivas. Siempre aprendiendo y mejorando para mantenerme al día con las últimas tendencias y tecnologías.
 
 ### 🛠️ Tecnologías y herramientas
 
