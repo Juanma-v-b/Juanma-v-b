@@ -32,7 +32,7 @@ Desarrollador Frontend apasionado por construir interfaces web modernas y eficie
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Juanma-v-b&theme=radical)
 
-![GitHub Followers](https://img.shields.io/github/followers/TuUsuario?style=for-the-badge)
+<!-- ![GitHub Followers](https://img.shields.io/github/followers/TuUsuario?style=for-the-badge) -->
 
 ### 📫 Contacto
 
