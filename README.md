@@ -37,5 +37,3 @@ Desarrollador Frontend apasionado por construir interfaces web modernas y eficie
 ### 📫 Contacto
 
 - 📧 Email: juanmavb@hotmail.com
-  <!-- - 💼 LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/TuPerfil) -->
- <!-- - 🌐 Portafolio: [TuPortafolio.com](https://TuPortafolio.com) -->
