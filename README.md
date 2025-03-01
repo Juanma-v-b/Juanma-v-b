@@ -21,13 +21,13 @@ Desarrollador frontend con experiencia en tecnologías web modernas. Apasionado 
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juanma-v-b&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanma-v-b&layout=compact&theme=radical)
 
 ### 🔥 Actividad reciente
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Juanma-v-b&theme=radical)
 
 ![GitHub Followers](https://img.shields.io/github/followers/TuUsuario?style=for-the-badge)
 
