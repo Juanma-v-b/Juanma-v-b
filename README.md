@@ -26,7 +26,9 @@ Desarrollador Frontend apasionado por construir interfaces web modernas y eficie
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juanma-v-b&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanma-v-b&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juanma-v-b&show_icons=true&theme=radical) 
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanma-v-b&layout=compact&theme=radical) -->
 
 ### 🔥 Actividad reciente
 
