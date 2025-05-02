@@ -30,12 +30,12 @@ Desarrollador Frontend apasionado por construir interfaces web modernas y eficie
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanma-v-b&layout=compact&theme=radical) -->
 
-### 🔥 Actividad reciente
+<!-- ### 🔥 Actividad reciente
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Juanma-v-b&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Juanma-v-b&theme=radical) -->
 
 <!-- ![GitHub Followers](https://img.shields.io/github/followers/TuUsuario?style=for-the-badge) -->
 
-### 📫 Contacto
+<!-- ### 📫 Contacto
 
-- 📧 Email: juanmavb@hotmail.com
+- 📧 Email: juanmavb@hotmail.com -->
