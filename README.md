@@ -2,10 +2,50 @@
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=TuUsuario&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
 
-### 🚀 Sobre mí
-Desarrollador Frontend apasionado por construir interfaces web modernas y eficientes. Me enfoco en crear soluciones que sean fáciles de usar, responsivas y visualmente atractivas. Siempre aprendiendo y mejorando para mantenerme al día con las últimas tendencias y tecnologías.
+<br />
 
-### 🛠️ Tecnologías y herramientas
+## 🚀 Sobre mí
+
+### Desarrollador Frontend apasionado por construir interfaces web modernas y eficientes. Me enfoco en crear soluciones que sean intuitivas, responsivas y visualmente atractivas. Siempre estoy aprendiendo y actualizándome con las últimas tecnologías.
+
+<br />
+
+## 🛠️ Tecnologías que uso
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,astro" />
+</p>
+
+### Estilos y UI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind,materialui" />
+</p>
+
+### Backend y Bases de Datos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nest,java,php,mysql,mongodb" />
+</p>
+
+### DevOps / Herramientas de desarrollo
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,docker,linux,bash,npm" />
+</p>
+
+### Cloud / Deploy
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=openshift,redhat,netlify,vercel,heroku" />
+</p>
+
+### Otros
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jest,reactivex,vite,vscode,postman,figma,notion,bitbucket,codepen" />
+</p>
+
+---
+
+
+<!-- ### 🛠️ Tecnologías y herramientas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logoColor=white)
@@ -29,24 +69,4 @@ Desarrollador Frontend apasionado por construir interfaces web modernas y eficie
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![IBM IIB](https://img.shields.io/badge/IBM%20IIB-007ACC?style=for-the-badge&logo=ibm&logoColor=white)
-
-
-<!--
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juanma-v-b&show_icons=true&theme=radical) 
-
--->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanma-v-b&layout=compact&theme=radical) -->
-
-<!-- ### 🔥 Actividad reciente
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Juanma-v-b&theme=radical) -->
-
-<!-- ![GitHub Followers](https://img.shields.io/github/followers/TuUsuario?style=for-the-badge) -->
-
-<!-- ### 📫 Contacto
-
-- 📧 Email: juanmavb@hotmail.com -->
+![IBM IIB](https://img.shields.io/badge/IBM%20IIB-007ACC?style=for-the-badge&logo=ibm&logoColor=white) -->
