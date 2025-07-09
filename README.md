@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Juanma
 
-![Visitas al perfil](https://komarev.com/ghpvc/?username=TuUsuario&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
+<!-- ![Visitas al perfil](https://komarev.com/ghpvc/?username=TuUsuario&label=Visitas%20al%20perfil&color=0e75b6&style=flat) -->
 
 <br />
 
