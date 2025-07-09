@@ -1,6 +1,5 @@
 <h1 align="left">👋 ¡Hola! Soy Juanma</h1>
 
-<!-- ![Visitas al perfil](https://komarev.com/ghpvc/?username=TuUsuario&label=Visitas%20al%20perfil&color=0e75b6&style=flat) -->
 
 ### Desarrollador Frontend apasionado por construir interfaces web modernas y eficientes. Me enfoco en crear soluciones que sean intuitivas, responsivas y visualmente atractivas. Siempre estoy aprendiendo y actualizándome con las últimas tecnologías.
 
@@ -38,8 +37,9 @@
   <img src="https://skillicons.dev/icons?i=jest,reactivex,vite,vscode,postman,figma,notion,bitbucket,codepen" />
 </p>
 
----
+<!-- ![Visitas al perfil](https://komarev.com/ghpvc/?username=TuUsuario&label=Visitas%20al%20perfil&color=0e75b6&style=flat) -->
 
+<!-- Old Version -->
 
 <!-- ### 🛠️ Tecnologías y herramientas
 
