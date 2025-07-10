@@ -3,37 +3,17 @@ Desarrollador Frontend apasionado por construir interfaces web modernas y eficie
 
 ## 🛠️ Tecnologías que uso
 
-### Frontend
+### Principales
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,react,astro" />
-</p>
-
-### Estilos y UI
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind,materialui" />
-</p>
-
-### Backend y Bases de Datos
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nest,java,php,mysql,mongodb" />
-</p>
-
-### DevOps / Herramientas de desarrollo
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,docker,linux,bash,npm" />
-</p>
-
-### Cloud / Deploy
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=openshift,redhat,netlify,vercel,heroku" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,reactivex,jest" />
 </p>
 
 ### Otros
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jest,reactivex,vite,vscode,postman,figma,notion,bitbucket,codepen" />
+  <img src="https://skillicons.dev/icons?i=react,astro,sass,bootstrap,tailwind,materialui,nest,mongodb,redhat,git,github&perline=9" style="height: 78px; opacity: 0.8;" />
 </p>
 
-<!-- ![Visitas al perfil](https://komarev.com/ghpvc/?username=TuUsuario&label=Visitas%20al%20perfil&color=0e75b6&style=flat) -->
+
 
 <!-- Old Version -->
 
