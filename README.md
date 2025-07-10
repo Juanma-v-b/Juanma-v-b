@@ -5,7 +5,7 @@ Desarrollador Frontend apasionado por construir interfaces web modernas y eficie
 
 ### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,astro" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,react,astro" />
 </p>
 
 ### Estilos y UI
