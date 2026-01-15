@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Juanma
-### Desarrollador Frontend apasionado por construir interfaces web modernas y eficientes. Me enfoco en crear soluciones que sean intuitivas, responsivas y visualmente atractivas. Siempre estoy aprendiendo y actualizándome con las últimas tecnologías.
+### Desarrollador Frontend apasionado por construir interfaces web modernas y eficientes. Me enfoco en crear soluciones que sean intuitivas, responsive y visualmente atractivas. Siempre estoy aprendiendo y actualizándome con las últimas tecnologías.
 
 <br />
 
