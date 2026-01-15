@@ -12,7 +12,7 @@
 
 ### Otros
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,astro,sass,bootstrap,tailwind,materialui,nest,mongodb,redhat,git,github&perline=9" style="height: 78px; opacity: 0.8;" />
+  <img src="https://skillicons.dev/icons?i=react,astro,sass,bootstrap,tailwind,materialui,nest,mongodb,redhat,git,github&perline=7" style="height: 78px; opacity: 0.8;" />
 </p>
 
 <p>
