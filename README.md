@@ -15,6 +15,14 @@
   <img src="https://skillicons.dev/icons?i=react,astro,sass,bootstrap,tailwind,materialui,nest,mongodb,redhat,git,github&perline=9" style="height: 78px; opacity: 0.8;" />
 </p>
 
+<p>
+    <img
+    src="/assets/ACE.png"
+    height="35"
+    style="opacity:0.8; margin-left:6px;border-radius: 8px;"
+  />
+</p>
+
 
 
 <!-- Old Version -->
