@@ -1,6 +1,6 @@
-<h1 align="center">Juanma Vizcaíno ツ</h1>
+<img src="/assets/banner.svg" width="100%" alt="Juanma Vizcaíno - Developer Banner" />
 
-<br />
+<hr />
 
 > [!NOTE]
 > ### 👋 Sobre mí
