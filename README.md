@@ -1,15 +1,4 @@
-<h1 align="center">Juanma Vizcaíno ツ</h1>
-
-<br />
-
-> [!NOTE]
-> ### 👋 Sobre mí
->
-> **Desarrollador Frontend**, con experiencia creando webs modernas, cuidando el diseño y la experiencia de usuario, y añadiendo un toque personal a cada proyecto.
->
-> También trabajo como **desarrollador Backend**, diseñando y construyendo flujos de integración, orquestación de servicios, transformación y manipulación de datos empresariales, y trazabilidad, lo que me da una visión más global del desarrollo de aplicaciones.
->
-> <br />
+![Banner](/assets/banner.png)
 
 <hr />
 
